@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there!! 👋
 
-<!--
-**uttu540/uttu540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Utkarsh Agrawal. I am currently pursuing B. Tech in Computer Science and Engineering. I am a 4th year student who likes to explore data, get valuable insights out of it. I like to work on projects related to the Machine Learning, Data Science and Data Analysis. 
 
-Here are some ideas to get you started:
+<p align = 'center'>
+<a href = https://www.linkedin.com/in/utkarsh1234/><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=uttu540&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
+- 🔭 I’m currently working on a group project on the topic sales prediction and customer feedback analysis. It involves machine learning,NLP and data visualization.
+- 🌱 I’m currently learning SQL, Advance Excel and Advance Python.
+- 😄 Pronouns: Empathetic, Thoughtful, Team-Player/Team-Leader, Result-Driven and Pro-Active
+- ⚡ Fun fact: I talk a lot as I like to . You can connect with me on Linkedin.
+
+## Languages Used
+[![Utkarsh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uttu540&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
