@@ -1,6 +1,6 @@
 ## Hi there!! 👋
 
-- My name is Utkarsh Agrawal, I am working as a data scientist at LSEG. I am a data science enthusiast who likes to explore data, get valuable insights out of it. I like to work on projects related to the Machine Learning, Data Science and Data Analysis. 
+- My name is Utkarsh Agrawal, I am working as a data scientist at Lowe's. I am a data science enthusiast who likes to explore data, get valuable insights out of it. I like to work on projects related to the Machine Learning, Data Science and Data Analysis. 
 
 <p align = 'center'>
 <a href = https://www.linkedin.com/in/utkarsh1234/><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
